@@ -11,6 +11,7 @@ We use a large block of connected links for our pagination, making links hard to
 - Example 1
 - Example 2
 
+
 #### Example 1
 
 If the pagination component is used to go to next page, an appropriate label could be `aria-label="Next"`.
@@ -38,6 +39,8 @@ If the pagination component is used to go to next page, an appropriate label cou
 ````
 
 #### Example 2
+
+If the pagination component is used to go to next page, an appropriate label could be `aria-label="Previous"`.
 
 ````
 <div class="container">
