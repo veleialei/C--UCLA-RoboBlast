@@ -43,7 +43,7 @@ If the pagination component is used to go to next page, an appropriate label cou
 
 #### Example 2
 
-If we need show the page number, we should add them without aria-label and between previous and next label.
+If we need showpage numbers, we should add them without aria-label and between previous and next label.
 
 ![alt text](http://i.imgur.com/EFEliiZ.png "Logo Title Text 1")
 
